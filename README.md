@@ -1,1 +1,3 @@
-# danobi
+The sub-directory `Code` contains the R-files that are needed to reproduce the simulation study and the real data analysis as reported in the preprint 'Scan statistics for the detection of anomalies in M-dependent random fields with applications to image data' by C. Kirch, P. Klein and M. Meyer available on arXiv:2311.09961.
+
+The file `functions.R` contains all necessary functions, while the simulation study can be reproduced using `simulation_study.R`. The real data analysis can be reproduced using `real_data.R`. The folder `Graphics` contains the raw images, the output files and the images to which text was added via PDF Annotator in respective subfolders
