@@ -18,7 +18,7 @@
 ###
 ###
 
-# All calculations were done under R version 4.1.2.
+# All calculations were done under R version 3.4.4.
 
 setwd(".")              # set working directory to current path
 source("functions.R")
