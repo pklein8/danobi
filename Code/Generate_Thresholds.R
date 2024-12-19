@@ -2,7 +2,7 @@
 For convenience the outcome of the below code is already included in the github directory and can directly be used 
 in the simulation or data analysis'
 
-# All calculations were done under R version 4.1.2.
+# All calculations were done under R version 3.4.4.
 
 setwd(".")  #current directory
 source("functions.R")
