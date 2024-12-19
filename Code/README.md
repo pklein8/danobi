@@ -6,4 +6,4 @@ The thresholds for the simulation study and the real data analysis can be upload
 
 The color palettes used for the coloring of the images can be uploaded from `Palettes.RData`.
 
-All calculations were done under R version 4.1.2.
+All calculations were done under R version 3.3.4.
